@@ -5,4 +5,8 @@ This program provides information about an element on getting atomic number or s
 Zip folder contains visual studio 2015 project.
 .cs file contains C sharp source code.
 
-Sponsored by: Learn Cybers https://learncybers.com
+Sponsored by: \
+[Learn Cybers](https://learncybers.com) \
+[WebSoft IT Development Solutions (Private)Limited](https://itdevsols.com) \
+[Arslan ud Din Shafiq](https://imarslan.com) \
+[GameZon.Net](https://gamezon.net)
